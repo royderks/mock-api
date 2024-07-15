@@ -1,0 +1,176 @@
+{
+  "employees": [
+    {
+      "employee_id": "E001",
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "department": "Finance",
+      "position": "Analyst",
+      "email": "alice.johnson@example.com",
+      "phone_number": "+1234567891",
+      "location": "New York, NY"
+    },
+    {
+      "employee_id": "E002",
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "department": "Finance",
+      "position": "Senior Analyst",
+      "email": "bob.smith@example.com",
+      "phone_number": "+1234567892",
+      "location": "Miami, FL"
+    },
+    {
+      "employee_id": "E003",
+      "first_name": "Charlie",
+      "last_name": "Brown",
+      "department": "IT",
+      "position": "Developer",
+      "email": "charlie.brown@example.com",
+      "phone_number": "+1234567893",
+      "location": "San Francisco, CA"
+    },
+    {
+      "employee_id": "E004",
+      "first_name": "David",
+      "last_name": "Wilson",
+      "department": "IT",
+      "position": "Senior Developer",
+      "email": "david.wilson@example.com",
+      "phone_number": "+1234567894",
+      "location": "San Francisco, CA"
+    },
+    {
+      "employee_id": "E005",
+      "first_name": "Eva",
+      "last_name": "Parker",
+      "department": "Marketing",
+      "position": "Coordinator",
+      "email": "eva.parker@example.com",
+      "phone_number": "+1234567895",
+      "location": "Miami, FL"
+    },
+    {
+      "employee_id": "E006",
+      "first_name": "Frank",
+      "last_name": "Edwards",
+      "department": "Marketing",
+      "position": "Senior Coordinator",
+      "email": "frank.edwards@example.com",
+      "phone_number": "+1234567896",
+      "location": "New York, NY"
+    },
+    {
+      "employee_id": "E007",
+      "first_name": "Grace",
+      "last_name": "Martinez",
+      "department": "Sales",
+      "position": "Sales Representative",
+      "email": "grace.martinez@example.com",
+      "phone_number": "+1234567897",
+      "location": "Miami, FL"
+    },
+    {
+      "employee_id": "E008",
+      "first_name": "Hannah",
+      "last_name": "Davis",
+      "department": "Sales",
+      "position": "Senior Sales Representative",
+      "email": "hannah.davis@example.com",
+      "phone_number": "+1234567898",
+      "location": "Miami, FL"
+    },
+    {
+      "employee_id": "E009",
+      "first_name": "Ivan",
+      "last_name": "Lopez",
+      "department": "HR",
+      "position": "HR Coordinator",
+      "email": "ivan.lopez@example.com",
+      "phone_number": "+1234567899",
+      "location": "San Francisco, CA"
+    },
+    {
+      "employee_id": "E010",
+      "first_name": "Julia",
+      "last_name": "Gonzalez",
+      "department": "HR",
+      "position": "HR Manager",
+      "email": "julia.gonzalez@example.com",
+      "phone_number": "+1234567900",
+      "location": "New York, NY"
+    }
+  ],
+  "salaries": [
+    {
+      "employee_id": "E001",
+      "base_salary": 70000,
+      "bonus": 3000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E002",
+      "base_salary": 80000,
+      "bonus": 4000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E003",
+      "base_salary": 85000,
+      "bonus": 5000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E004",
+      "base_salary": 95000,
+      "bonus": 6000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E005",
+      "base_salary": 60000,
+      "bonus": 2500,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E006",
+      "base_salary": 65000,
+      "bonus": 3000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E007",
+      "base_salary": 55000,
+      "bonus": 2000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E008",
+      "base_salary": 75000,
+      "bonus": 3500,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E009",
+      "base_salary": 50000,
+      "bonus": 1500,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    },
+    {
+      "employee_id": "E010",
+      "base_salary": 90000,
+      "bonus": 7000,
+      "currency": "USD",
+      "pay_frequency": "annual"
+    }
+  ]
+}
