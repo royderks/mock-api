@@ -8,7 +8,7 @@
       "position": "Analyst",
       "email": "alice.johnson@example.com",
       "phone_number": "+1234567891",
-      "location": "New York, NY"
+      "location": "New York, NY, US"
     },
     {
       "employee_id": "E002",
@@ -18,7 +18,7 @@
       "position": "Senior Analyst",
       "email": "bob.smith@example.com",
       "phone_number": "+1234567892",
-      "location": "Miami, FL"
+      "location": "Miami, FL, US"
     },
     {
       "employee_id": "E003",
@@ -28,7 +28,7 @@
       "position": "Developer",
       "email": "charlie.brown@example.com",
       "phone_number": "+1234567893",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA, US"
     },
     {
       "employee_id": "E004",
@@ -38,7 +38,7 @@
       "position": "Senior Developer",
       "email": "david.wilson@example.com",
       "phone_number": "+1234567894",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA, US"
     },
     {
       "employee_id": "E005",
@@ -48,7 +48,7 @@
       "position": "Coordinator",
       "email": "eva.parker@example.com",
       "phone_number": "+1234567895",
-      "location": "Miami, FL"
+      "location": "Miami, FL, US"
     },
     {
       "employee_id": "E006",
@@ -58,7 +58,7 @@
       "position": "Senior Coordinator",
       "email": "frank.edwards@example.com",
       "phone_number": "+1234567896",
-      "location": "New York, NY"
+      "location": "New York, NY, US"
     },
     {
       "employee_id": "E007",
@@ -68,7 +68,7 @@
       "position": "Sales Representative",
       "email": "grace.martinez@example.com",
       "phone_number": "+1234567897",
-      "location": "Miami, FL"
+      "location": "Miami, FL, US"
     },
     {
       "employee_id": "E008",
@@ -78,7 +78,7 @@
       "position": "Senior Sales Representative",
       "email": "hannah.davis@example.com",
       "phone_number": "+1234567898",
-      "location": "Miami, FL"
+      "location": "Miami, FL, US"
     },
     {
       "employee_id": "E009",
@@ -88,7 +88,7 @@
       "position": "HR Coordinator",
       "email": "ivan.lopez@example.com",
       "phone_number": "+1234567899",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA, US"
     },
     {
       "employee_id": "E010",
@@ -98,7 +98,7 @@
       "position": "HR Manager",
       "email": "julia.gonzalez@example.com",
       "phone_number": "+1234567900",
-      "location": "New York, NY"
+      "location": "New York, NY, US"
     }
   ],
   "salaries": [
